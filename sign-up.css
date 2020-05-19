@@ -1,0 +1,39 @@
+#sign{
+    background-color: #27496d;
+    padding:10px;
+}
+
+.details{
+    text-align: left;
+    line-height: 2;
+    background-color: #ebe6e6;
+    font-weight: bold;
+    margin:2% 12% 2% 10%;
+    padding:5%;   
+}
+
+
+.forms {
+    padding:10px;
+}
+
+.submit-btn {
+    margin:5% 45% 1% 40%;
+}
+
+
+/* navbar */
+
+.navbar-brand{
+    
+    font-size: 2rem;
+    font-weight: bold;
+}
+.navbar{
+    padding-bottom: 3.5rem;
+    font-size: 1.2rem;
+   
+}
+.nav-item {
+    padding: 0 18px;
+    }

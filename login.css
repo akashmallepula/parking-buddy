@@ -1,0 +1,24 @@
+#deets {
+    background-color:#27496d;
+    padding: 0% 15% 13% 15%; 
+}
+
+
+
+/* navbar */
+
+.navbar-brand{
+    
+    font-size: 2rem;
+    font-weight: bold;
+    
+}
+.navbar{
+    padding-bottom: 3.5rem;
+    font-size: 1.2rem;
+   
+}
+.nav-item {
+    padding: 0 18px;
+    }
+
